@@ -1,0 +1,787 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1919px;
+	 height: 8649px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Rectngulo1 
+{ 
+	 left: -36px; 
+	 top: 105px; 
+	 position: absolute; 
+	 width: 2176px;
+	 height: 1250px;
+	 z-index:1;
+} 
+
+ #Rectngulo1copia 
+{ 
+	 left: -91px; 
+	 top: 1323px; 
+	 position: absolute; 
+	 width: 2176px;
+	 height: 1110px;
+	 z-index:2;
+} 
+
+ #slide1copia 
+{ 
+	 left: -146px; 
+	 top: 105px; 
+	 position: absolute; 
+	 width: 2189px;
+	 height: 1242px;
+	 z-index:3;
+} 
+
+ #uscollagenelixirfeat 
+{ 
+	 left: 145px; 
+	 top: 424px; 
+	 position: absolute; 
+	 width: 432px;
+	 height: 563px;
+	 z-index:4;
+} 
+
+ #slide1 
+{ 
+	 left: -146px; 
+	 top: 105px; 
+	 position: absolute; 
+	 width: 2189px;
+	 height: 1242px;
+	 z-index:5;
+} 
+
+ #slide 
+{ 
+	 left: -146px; 
+	 top: 105px; 
+	 position: absolute; 
+	 width: 2167px;
+	 height: 1242px;
+	 z-index:6;
+} 
+
+ #logoisagenix 
+{ 
+	 left: 802px; 
+	 top: 583px; 
+	 position: absolute; 
+	 width: 1016px;
+	 height: 217px;
+	 z-index:7;
+} 
+
+ #Rectngulo7 
+{ 
+	 left: 936px; 
+	 top: 1507px; 
+	 position: absolute; 
+	 width: 938px;
+	 height: 914px;
+	 z-index:8;
+} 
+
+ #main1copia 
+{ 
+	 left: 941px; 
+	 top: 1514px; 
+	 position: absolute; 
+	 width: 942px;
+	 height: 918px;
+	 z-index:9;
+} 
+
+ #Rectngulo2 
+{ 
+	 left: 490px; 
+	 top: 1097px; 
+	 position: absolute; 
+	 width: 956px;
+	 height: 285px;
+	 z-index:10;
+} 
+
+ #8635c6f5cb75208d383e 
+{ 
+	 left: 1358px; 
+	 top: 1278px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 31px;
+	 z-index:11;
+} 
+
+ #ColgenoLXRRealzatubr 
+{ 
+	 left: 540px; 
+	 top: 1136px; 
+	 position: absolute; 
+	 width: 495px;
+	 height: 169px;
+	 z-index:12;
+} 
+
+ #ComprarAhora 
+{ 
+	 left: 1106px; 
+	 top: 1277px; 
+	 position: absolute; 
+	 width: 240px;
+	 height: 35px;
+	 z-index:13;
+} 
+
+ #QueselColgenoLXRISAG 
+{ 
+	 left: 142px; 
+	 top: 1551px; 
+	 position: absolute; 
+	 width: 632px;
+	 height: 150px;
+	 z-index:14;
+} 
+
+ #Elcolgenoesunaproten 
+{ 
+	 left: 146px; 
+	 top: 1858px; 
+	 position: absolute; 
+	 width: 732px;
+	 height: 433px;
+	 z-index:15;
+} 
+
+ #Rectngulo4 
+{ 
+	 left: -86px; 
+	 top: 2601px; 
+	 position: absolute; 
+	 width: 2246px;
+	 height: 1108px;
+	 z-index:16;
+} 
+
+ #Imagen6 
+{ 
+	 left: -80px; 
+	 top: 2603px; 
+	 position: absolute; 
+	 width: 2079px;
+	 height: 1170px;
+	 z-index:17;
+} 
+
+ #xlr 
+{ 
+	 left: 877px; 
+	 top: 2944px; 
+	 position: absolute; 
+	 width: 212px;
+	 height: 619px;
+	 z-index:18;
+} 
+
+ #IngredientesdelElixi 
+{ 
+	 left: 707px; 
+	 top: 2672px; 
+	 position: absolute; 
+	 width: 545px;
+	 height: 149px;
+	 z-index:19;
+} 
+
+ #5gdecolgenomarinoa 
+{ 
+	 left: 147px; 
+	 top: 2938px; 
+	 position: absolute; 
+	 width: 394px;
+	 height: 34px;
+	 z-index:20;
+} 
+
+ #BayasVitaminasminera 
+{ 
+	 left: 146px; 
+	 top: 3098px; 
+	 position: absolute; 
+	 width: 502px;
+	 height: 72px;
+	 z-index:21;
+} 
+
+ #ManzanillaContienean 
+{ 
+	 left: 147px; 
+	 top: 3316px; 
+	 position: absolute; 
+	 width: 566px;
+	 height: 78px;
+	 z-index:22;
+} 
+
+ #ZincMantienefuerteat 
+{ 
+	 left: 146px; 
+	 top: 3513px; 
+	 position: absolute; 
+	 width: 549px;
+	 height: 116px;
+	 z-index:23;
+} 
+
+ #AloeVeraMantieneenbu 
+{ 
+	 left: 1275px; 
+	 top: 2874px; 
+	 position: absolute; 
+	 width: 523px;
+	 height: 160px;
+	 z-index:24;
+} 
+
+ #GojiContienebetacaro 
+{ 
+	 left: 1280px; 
+	 top: 3098px; 
+	 position: absolute; 
+	 width: 565px;
+	 height: 122px;
+	 z-index:25;
+} 
+
+ #BiotinaMantienelapie 
+{ 
+	 left: 1275px; 
+	 top: 3316px; 
+	 position: absolute; 
+	 width: 553px;
+	 height: 123px;
+	 z-index:26;
+} 
+
+ #VitaminaCAyudaalsist 
+{ 
+	 left: 1275px; 
+	 top: 3513px; 
+	 position: absolute; 
+	 width: 566px;
+	 height: 167px;
+	 z-index:27;
+} 
+
+ #Lnea1 
+{ 
+	 left: 1273px; 
+	 top: 3051px; 
+	 position: absolute; 
+	 width: 501px;
+	 height: 7px;
+	 z-index:28;
+} 
+
+ #Lnea1copia 
+{ 
+	 left: 143px; 
+	 top: 3439px; 
+	 position: absolute; 
+	 width: 501px;
+	 height: 7px;
+	 z-index:29;
+} 
+
+ #Lnea2 
+{ 
+	 left: 236px; 
+	 top: 2543px; 
+	 position: absolute; 
+	 width: 1478px;
+	 height: 6px;
+	 z-index:30;
+} 
+
+ #Rectngulo5 
+{ 
+	 left: -6px; 
+	 top: 3699px; 
+	 position: absolute; 
+	 width: 2126px;
+	 height: 4466px;
+	 z-index:31;
+} 
+
+ #Imagen6_0 
+{ 
+	 left: -19px; 
+	 top: 7042px; 
+	 position: absolute; 
+	 width: 2018px;
+	 height: 1122px;
+	 z-index:32;
+} 
+
+ #8635c6f5cb75208d383e_0 
+{ 
+	 left: 1755px; 
+	 top: 7542px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 56px;
+	 z-index:33;
+} 
+
+ #8635c6f5cb75208d383e_1 
+{ 
+	 left: 95px; 
+	 top: 7542px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 56px;
+	 z-index:34;
+} 
+
+ #Imagen6_1 
+{ 
+	 left: -35px; 
+	 top: 4846px; 
+	 position: absolute; 
+	 width: 1988px;
+	 height: 1118px;
+	 z-index:35;
+} 
+
+ #Imagen9 
+{ 
+	 left: 46px; 
+	 top: 3893px; 
+	 position: absolute; 
+	 width: 747px;
+	 height: 1084px;
+	 z-index:36;
+} 
+
+ #Rectngulo6 
+{ 
+	 left: 757px; 
+	 top: 3947px; 
+	 position: absolute; 
+	 width: 1084px;
+	 height: 997px;
+	 z-index:37;
+} 
+
+ #Qunoshaceserdiferent 
+{ 
+	 left: 851px; 
+	 top: 4038px; 
+	 position: absolute; 
+	 width: 576px;
+	 height: 149px;
+	 z-index:38;
+} 
+
+ #ElixirdeIsagenixcuen 
+{ 
+	 left: 865px; 
+	 top: 4260px; 
+	 position: absolute; 
+	 width: 863px;
+	 height: 523px;
+	 z-index:39;
+} 
+
+ #logoisasymbolonly 
+{ 
+	 left: 1487px; 
+	 top: 4466px; 
+	 position: absolute; 
+	 width: 356px;
+	 height: 479px;
+	 z-index:40;
+} 
+
+ #Detallesdenuestropro 
+{ 
+	 left: 681px; 
+	 top: 5127px; 
+	 position: absolute; 
+	 width: 630px;
+	 height: 167px;
+	 z-index:41;
+} 
+
+ #Conunainnovadoramezc 
+{ 
+	 left: 216px; 
+	 top: 5330px; 
+	 position: absolute; 
+	 width: 1513px;
+	 height: 78px;
+	 z-index:42;
+} 
+
+ #SaborWildBerry 
+{ 
+	 left: 450px; 
+	 top: 5747px; 
+	 position: absolute; 
+	 width: 169px;
+	 height: 78px;
+	 z-index:43;
+} 
+
+ #Vidatil24Meses 
+{ 
+	 left: 1370px; 
+	 top: 5739px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 77px;
+	 z-index:44;
+} 
+
+ #FormaLiquida 
+{ 
+	 left: 763px; 
+	 top: 5750px; 
+	 position: absolute; 
+	 width: 114px;
+	 height: 76px;
+	 z-index:45;
+} 
+
+ #PaqueteCajacon10bote 
+{ 
+	 left: 955px; 
+	 top: 5750px; 
+	 position: absolute; 
+	 width: 324px;
+	 height: 77px;
+	 z-index:46;
+} 
+
+ #003bottlecopia3 
+{ 
+	 left: 1137px; 
+	 top: 5594px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 21px;
+	 z-index:47;
+} 
+
+ #004calendar 
+{ 
+	 left: 1381px; 
+	 top: 5577px; 
+	 position: absolute; 
+	 width: 139px;
+	 height: 133px;
+	 z-index:48;
+} 
+
+ #003bottle 
+{ 
+	 left: 1083px; 
+	 top: 5611px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 99px;
+	 z-index:49;
+} 
+
+ #003bottlecopia 
+{ 
+	 left: 1119px; 
+	 top: 5611px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 99px;
+	 z-index:50;
+} 
+
+ #003bottlecopia2 
+{ 
+	 left: 1155px; 
+	 top: 5611px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 99px;
+	 z-index:51;
+} 
+
+ #003bottlecopia4 
+{ 
+	 left: 1097px; 
+	 top: 5594px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 21px;
+	 z-index:52;
+} 
+
+ #003bottlecopia5 
+{ 
+	 left: 1063px; 
+	 top: 5594px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 20px;
+	 z-index:53;
+} 
+
+ #003bottlecopia6 
+{ 
+	 left: 1083px; 
+	 top: 5577px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 20px;
+	 z-index:54;
+} 
+
+ #003bottlecopia8 
+{ 
+	 left: 1100px; 
+	 top: 5559px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 22px;
+	 z-index:55;
+} 
+
+ #003bottlecopia7 
+{ 
+	 left: 1122px; 
+	 top: 5577px; 
+	 position: absolute; 
+	 width: 34px;
+	 height: 20px;
+	 z-index:56;
+} 
+
+ #003bottlecopia9 
+{ 
+	 left: 1045px; 
+	 top: 5611px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 99px;
+	 z-index:57;
+} 
+
+ #001water 
+{ 
+	 left: 773px; 
+	 top: 5590px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 123px;
+	 z-index:58;
+} 
+
+ #002berries 
+{ 
+	 left: 455px; 
+	 top: 5590px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 124px;
+	 z-index:59;
+} 
+
+ #Rectngulo7copia 
+{ 
+	 left: 918px; 
+	 top: 6056px; 
+	 position: absolute; 
+	 width: 938px;
+	 height: 914px;
+	 z-index:60;
+} 
+
+ #Imagen12 
+{ 
+	 left: 917px; 
+	 top: 6058px; 
+	 position: absolute; 
+	 width: 938px;
+	 height: 911px;
+	 z-index:61;
+} 
+
+ #product 
+{ 
+	 left: 992px; 
+	 top: 6205px; 
+	 position: absolute; 
+	 width: 812px;
+	 height: 694px;
+	 z-index:62;
+} 
+
+ #Imagen10 
+{ 
+	 left: 196px; 
+	 top: 7391px; 
+	 position: absolute; 
+	 width: 928px;
+	 height: 700px;
+	 z-index:63;
+} 
+
+ #Imagen10_0 
+{ 
+	 left: 1123px; 
+	 top: 7394px; 
+	 position: absolute; 
+	 width: 698px;
+	 height: 351px;
+	 z-index:64;
+} 
+
+ #ColgenoLXR 
+{ 
+	 left: 186px; 
+	 top: 6112px; 
+	 position: absolute; 
+	 width: 483px;
+	 height: 76px;
+	 z-index:65;
+} 
+
+ #ResultadosColgenosLX 
+{ 
+	 left: 526px; 
+	 top: 7164px; 
+	 position: absolute; 
+	 width: 867px;
+	 height: 160px;
+	 z-index:66;
+} 
+
+ #ElixirIsagenix 
+{ 
+	 left: 200px; 
+	 top: 6205px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 42px;
+	 z-index:67;
+} 
+
+ #Precio143200 
+{ 
+	 left: 217px; 
+	 top: 6327px; 
+	 position: absolute; 
+	 width: 421px;
+	 height: 55px;
+	 z-index:68;
+} 
+
+ #1paquetecontiene10bo 
+{ 
+	 left: 214px; 
+	 top: 6464px; 
+	 position: absolute; 
+	 width: 553px;
+	 height: 74px;
+	 z-index:69;
+} 
+
+ #Rectngulo8 
+{ 
+	 left: 194px; 
+	 top: 6624px; 
+	 position: absolute; 
+	 width: 573px;
+	 height: 94px;
+	 z-index:70;
+} 
+
+ #COMPRARAHORA 
+{ 
+	 left: 295px; 
+	 top: 6655px; 
+	 position: absolute; 
+	 width: 367px;
+	 height: 31px;
+	 z-index:71;
+} 
+
+ #Lnea2copia 
+{ 
+	 left: 236px; 
+	 top: 5953px; 
+	 position: absolute; 
+	 width: 1478px;
+	 height: 6px;
+	 z-index:72;
+} 
+
+ #93presentaronmayorhi 
+{ 
+	 left: 294px; 
+	 top: 7848px; 
+	 position: absolute; 
+	 width: 584px;
+	 height: 123px;
+	 z-index:73;
+} 
+
+ #90pielmsradiante88mo 
+{ 
+	 left: 1053px; 
+	 top: 7848px; 
+	 position: absolute; 
+	 width: 568px;
+	 height: 123px;
+	 z-index:74;
+} 
+
+ #Losresultadosmejoran 
+{ 
+	 left: 480px; 
+	 top: 8043px; 
+	 position: absolute; 
+	 width: 996px;
+	 height: 33px;
+	 z-index:75;
+} 
+
+ #Rectngulo9 
+{ 
+	 left: -68px; 
+	 top: 8151px; 
+	 position: absolute; 
+	 width: 2073px;
+	 height: 572px;
+	 z-index:76;
+} 
+
+ #logoisagenix_0 
+{ 
+	 left: 682px; 
+	 top: 8329px; 
+	 position: absolute; 
+	 width: 558px;
+	 height: 119px;
+	 z-index:77;
+} 
