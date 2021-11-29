@@ -16,10 +16,11 @@
 .compraahora{
     height: 250px;
     width: 40%;
-    background-color: #cccccc ;
+    background-color: #e6e6e6 ;
     transform: translateY(-150px);
     margin-left: 35%;
 }
+
 
 .section2-1{
     display: flex;
