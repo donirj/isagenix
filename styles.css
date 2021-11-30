@@ -94,8 +94,13 @@
     justify-content: center;
 }
 
+.section2-3-1{
+    margin-left: 20px;
+}
+
 .diferentes{
     margin: 20px;
+
 }
 
 .section2-3-2{
@@ -134,6 +139,24 @@ margin: 40px;
     flex-direction: column;
     justify-content: center;   
     margin: 35px;
+}
+
+.tapas0{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.tapas{
+    margin-left: 20px;
+}
+
+.tapas2{
+    margin-left: 40px;
+}
+
+.tapas1{
+    margin-left: 60px;
+    margin-top: 50px;
 }
 
 .section2-5{
